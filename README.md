@@ -1,6 +1,7 @@
 # 🧠 SGU25 Data Analytics
 
 Phân tích dữ liệu (Data Analytics) thực hiện trong khóa học tại **SGU 2025**.
+## Giảng viên hướng dẫn: Thầy Đỗ Như Tài
 
 ## 📁 Giới thiệu
 Dự án này bao gồm:
@@ -17,20 +18,18 @@ Dự án này bao gồm:
 
 ## 🚀 Cách chạy project
 1. Clone repo:
-   git clone https://github.com/TrnThao/sgu25_data_analytics.git
+- it clone https://github.com/TrnThao/sgu25_data_analytics.git
 
 2. Cài đặt thư viện
-    pip install -r requirements.txt
+- pip install -r requirements.txt
 
 3. Chạy file notebook hoặc script chính:
-    jupyter notebook
-    python main.py
+- jupyter notebook
+- python main.py
 
 ## Kết quả
-
-    Độ chính xác mô hình: 90%
-
-    Biểu đồ phân tích tương quan giữa các biến
+- Độ chính xác mô hình: 90%
+- Biểu đồ phân tích tương quan giữa các biến
 ✨ Tác giả
 
 ## Trần Thao
